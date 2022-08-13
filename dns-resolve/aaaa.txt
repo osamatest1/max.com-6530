@@ -1,0 +1,10 @@
+secure.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+ns0.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+devel.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+mysql.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+mail.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+erp.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+helpdesk.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+syslog.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+admin01.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+exchange.max.com. AAAA fe80:1::225:90ff:fe19:4b12
