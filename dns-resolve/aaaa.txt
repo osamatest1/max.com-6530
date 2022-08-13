@@ -1,0 +1,13 @@
+secure.max.com. A 92.242.144.50
+ipv6.max.com. A 92.242.144.50
+info.max.com. A 92.242.144.50
+admin10.max.com. A 92.242.144.50
+http.max.com. A 92.242.144.50
+status.max.com. A 92.242.144.50
+web2test.max.com. A 92.242.144.50
+syslog.max.com. A 92.242.144.50
+shop.max.com. A 92.242.144.50
+sharepoint.max.com. A 92.242.144.50
+localadmin.max.com. A 92.242.144.50
+lab.max.com. AAAA ::
+about.max.com. A 92.242.144.50
