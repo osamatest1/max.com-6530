@@ -1,17 +1,1 @@
 intranet.max.com. A 92.242.144.50
-auth.max.com. A 92.242.144.50
-lab.max.com. A 92.242.144.50
-v3.max.com. A 92.242.144.50
-local.max.com. A 92.242.144.50
-mx0.max.com. A 92.242.144.50
-http.max.com. A 92.242.144.50
-secure.max.com. A 92.242.144.50
-news.max.com. A 92.242.144.50
-vmm.max.com. A 92.242.144.50
-intra.max.com. A 92.242.144.50
-mirror.max.com. A 92.242.144.50
-ap.max.com. A 92.242.144.50
-ns0.max.com. A 92.242.144.50
-direct.max.com. A 92.242.144.50
-oracle.max.com. A 92.242.144.50
-home.max.com. A 92.242.144.50
