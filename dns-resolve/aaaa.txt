@@ -1,1 +1,2 @@
-whois.max.com. A 92.242.144.50
+mail3.max.com. A 92.242.144.50
+mail2.max.com. AAAA ::
