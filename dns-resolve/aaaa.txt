@@ -1,0 +1,11 @@
+chat.max.com. A 92.242.144.50
+development.max.com. A 92.242.144.50
+ns.max.com. A 92.242.144.50
+news.max.com. A 92.242.144.50
+ipv6.max.com. A 92.242.144.50
+ftp.max.com. A 92.242.144.50
+voip.max.com. A 92.242.144.50
+administration.max.com. A 92.242.144.50
+sip.max.com. A 92.242.144.50
+mssql.max.com. A 92.242.144.50
+ns2.max.com. A 92.242.144.50
