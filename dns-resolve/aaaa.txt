@@ -1,0 +1,8 @@
+web2test.max.com. A 92.242.144.50
+ap.max.com. A 92.242.144.50
+backup.max.com. A 92.242.144.50
+administrator.max.com. A 92.242.144.50
+main.max.com. A 92.242.144.50
+apache.max.com. A 92.242.144.50
+database.max.com. A 92.242.144.50
+db.max.com. A 92.242.144.50
