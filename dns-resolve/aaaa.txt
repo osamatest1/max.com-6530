@@ -1,3 +1,0 @@
-citrix.max.com. A 92.242.144.50
-ssl.max.com. A 92.242.144.50
-manage.max.com. AAAA ::
