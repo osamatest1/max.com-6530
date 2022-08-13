@@ -1,0 +1,5 @@
+lifestyletour.max.com. CNAME max.com.
+email.mailgun.max.com. CNAME mailgun.org.
+www.madisonmax.com. A 92.242.144.50
+305925.max.com. AAAA ::
+www.lifestyletour.max.com. CNAME max.com.
