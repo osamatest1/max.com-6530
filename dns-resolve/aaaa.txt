@@ -1,0 +1,6 @@
+beta.max.com. A 92.242.144.50
+mssql.max.com. A 92.242.144.50
+127.0.0.1.max.com. A 92.242.144.50
+monitor.max.com. A 92.242.144.50
+dmz.max.com. A 92.242.144.50
+web2test.max.com. A 92.242.144.50
