@@ -1,2 +1,2 @@
-mail3.max.com. A 92.242.144.50
-mail2.max.com. AAAA ::
+lol.max.com. A 92.242.144.50
+v1.max.com. A 92.242.144.50
