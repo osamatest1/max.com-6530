@@ -1,0 +1,15 @@
+chat.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+ldap.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+testing.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+intra.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+demo.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+www2.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+ns3.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+secure.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+host.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+database.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+help.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+forum.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+ftp.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+ns0.max.com. AAAA fe80:1::225:90ff:fe19:4b12
+administration.max.com. AAAA fe80:1::225:90ff:fe19:4b12
