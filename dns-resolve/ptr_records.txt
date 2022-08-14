@@ -1,7 +1,0 @@
-lifestyletour.max.com. CNAME max.com.
-link.max.com. CNAME track.smtp2go.net.
-www.lifestyletour.max.com. CNAME max.com.
-tj.max.com. A 36.86.63.182
-email.mailgun.max.com. CNAME mailgun.org.
-289750.max.com. A 36.86.63.182
-64.99.181.58.dynamic.max.com. A 36.86.63.182
