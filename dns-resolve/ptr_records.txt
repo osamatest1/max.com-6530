@@ -1,0 +1,3 @@
+lifestyletour.max.com. CNAME max.com.
+www.lifestyletour.max.com. CNAME max.com.
+email.mailgun.max.com. CNAME mailgun.org.

@@ -1,9 +1,0 @@
-voip.max.com. A 92.242.144.50
-dns0.max.com. A 92.242.144.50
-monitor.max.com. A 92.242.144.50
-eshop.max.com. A 92.242.144.50
-administrator.max.com. A 92.242.144.50
-webmail.max.com. A 92.242.144.50
-blogadmin.max.com. A 92.242.144.50
-admin10.max.com. A 92.242.144.50
-devsql.max.com. A 92.242.144.50
