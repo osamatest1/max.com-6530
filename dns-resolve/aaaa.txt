@@ -1,0 +1,16 @@
+ns3.max.com. A 92.242.144.50
+citrix.max.com. A 92.242.144.50
+alpha.max.com. A 92.242.144.50
+ns2.max.com. A 92.242.144.50
+app.max.com. A 92.242.144.50
+oracle.max.com. A 92.242.144.50
+s3.max.com. A 92.242.144.50
+cvs.max.com. A 92.242.144.50
+adserver.max.com. A 92.242.144.50
+auth.max.com. A 92.242.144.50
+mirror.max.com. A 92.242.144.50
+git.max.com. A 92.242.144.50
+whois.max.com. A 92.242.144.50
+firewall.max.com. A 92.242.144.50
+127.0.0.1.max.com. A 92.242.144.50
+direct.max.com. A 92.242.144.50
