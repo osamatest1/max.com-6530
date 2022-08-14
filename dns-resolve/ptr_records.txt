@@ -1,3 +1,0 @@
-link.max.com. CNAME track.smtp2go.net.
-2.max.com. PTR hwsrv-993061.hostwindsdns.com.
-www.lifestyletour.max.com. CNAME max.com.
