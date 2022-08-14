@@ -1,0 +1,5 @@
+blogadmin.max.com. A 92.242.144.50
+lol.max.com. A 92.242.144.50
+mail2.max.com. A 92.242.144.50
+host.max.com. A 92.242.144.50
+admin01.max.com. A 92.242.144.50
