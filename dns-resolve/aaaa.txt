@@ -1,0 +1,7 @@
+door.max.com. A 92.242.144.50
+aptest.max.com. A 92.242.144.50
+mgmt.max.com. A 92.242.144.50
+administration.max.com. A 92.242.144.50
+v1.max.com. A 92.242.144.50
+manage.max.com. A 92.242.144.50
+shop.max.com. A 92.242.144.50
