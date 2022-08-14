@@ -1,0 +1,11 @@
+ads.max.com. A 92.242.144.50
+internal.max.com. A 92.242.144.50
+ops.max.com. A 92.242.144.50
+beta.max.com. A 92.242.144.50
+oracle.max.com. A 92.242.144.50
+main.max.com. A 92.242.144.50
+mta.max.com. A 92.242.144.50
+web2test.max.com. A 92.242.144.50
+linux.max.com. A 92.242.144.50
+webmail.max.com. A 92.242.144.50
+cdn.max.com. A 92.242.144.50
